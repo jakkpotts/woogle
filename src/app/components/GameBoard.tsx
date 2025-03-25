@@ -15,8 +15,8 @@ export default function GameBoard({ guesses, currentGuess, currentRow }: GameBoa
       return (
         <div
           key={`${row}-${col}`}
-          className={`w-14 h-14 border-2 border-gray-300 flex items-center justify-center text-2xl font-bold
-            ${letter ? 'border-gray-600' : ''}`}
+          className={`w-14 h-14 border-2 border-gray-400 flex items-center justify-center text-2xl font-bold text-gray-800
+            ${letter ? 'border-gray-600 bg-gray-100' : ''}`}
         >
           {letter}
         </div>
@@ -28,7 +28,7 @@ export default function GameBoard({ guesses, currentGuess, currentRow }: GameBoa
       return (
         <div
           key={`${row}-${col}`}
-          className="w-14 h-14 border-2 border-gray-300 flex items-center justify-center text-2xl font-bold"
+          className="w-14 h-14 border-2 border-gray-400 flex items-center justify-center text-2xl font-bold"
         />
       );
     }

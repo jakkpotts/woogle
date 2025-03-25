@@ -39,7 +39,7 @@ export default function Keyboard({ onKey, onEnter, onDelete, keys }: KeyboardPro
       correct: 'bg-green-500 text-white',
       present: 'bg-yellow-500 text-white',
       absent: 'bg-gray-500 text-white',
-      empty: 'bg-gray-200 hover:bg-gray-300',
+      empty: 'bg-gray-300 text-gray-800 hover:bg-gray-400',
     }[state];
 
     return `${baseClasses} ${sizeClasses} ${stateClasses}`;
