@@ -11,7 +11,8 @@ export const getRandomWord = (): string => {
 };
 
 export const isValidWord = (word: string): boolean => {
-  return WORD_LIST.includes(word.toUpperCase());
+  // Accept any 5-letter word containing only letters A-Z
+  return word.length === 5 && /^[A-Z]+$/.test(word.toUpperCase());
 };
 
 export const checkGuess = (guess: string, target: string): ('correct' | 'present' | 'absent')[] => {

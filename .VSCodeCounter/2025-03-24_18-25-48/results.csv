@@ -1,0 +1,21 @@
+"filename", "language", "TypeScript JSX", "TypeScript", "JavaScript", "CSS", "JSON", "JSON with Comments", "XML", "Markdown", "comment", "blank", "total"
+"/Users/jakk/current/woogle/README.md", "Markdown", 0, 0, 0, 0, 0, 0, 0, 23, 0, 14, 37
+"/Users/jakk/current/woogle/eslint.config.mjs", "JavaScript", 0, 0, 12, 0, 0, 0, 0, 0, 0, 5, 17
+"/Users/jakk/current/woogle/next.config.ts", "TypeScript", 0, 4, 0, 0, 0, 0, 0, 0, 1, 3, 8
+"/Users/jakk/current/woogle/package-lock.json", "JSON", 0, 0, 0, 0, 5697, 0, 0, 0, 0, 1, 5698
+"/Users/jakk/current/woogle/package.json", "JSON", 0, 0, 0, 0, 27, 0, 0, 0, 0, 1, 28
+"/Users/jakk/current/woogle/postcss.config.mjs", "JavaScript", 0, 0, 4, 0, 0, 0, 0, 0, 0, 2, 6
+"/Users/jakk/current/woogle/public/file.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"/Users/jakk/current/woogle/public/globe.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"/Users/jakk/current/woogle/public/next.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"/Users/jakk/current/woogle/public/vercel.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"/Users/jakk/current/woogle/public/window.svg", "XML", 0, 0, 0, 0, 0, 0, 1, 0, 0, 0, 1
+"/Users/jakk/current/woogle/src/app/components/GameBoard.tsx", "TypeScript JSX", 56, 0, 0, 0, 0, 0, 0, 0, 0, 7, 63
+"/Users/jakk/current/woogle/src/app/components/Keyboard.tsx", "TypeScript JSX", 56, 0, 0, 0, 0, 0, 0, 0, 0, 9, 65
+"/Users/jakk/current/woogle/src/app/globals.css", "CSS", 0, 0, 0, 22, 0, 0, 0, 0, 0, 5, 27
+"/Users/jakk/current/woogle/src/app/layout.tsx", "TypeScript JSX", 30, 0, 0, 0, 0, 0, 0, 0, 0, 5, 35
+"/Users/jakk/current/woogle/src/app/lib/types.ts", "TypeScript", 0, 18, 0, 0, 0, 0, 0, 0, 0, 4, 22
+"/Users/jakk/current/woogle/src/app/lib/words.ts", "TypeScript", 0, 34, 0, 0, 0, 0, 0, 0, 4, 6, 44
+"/Users/jakk/current/woogle/src/app/page.tsx", "TypeScript JSX", 133, 0, 0, 0, 0, 0, 0, 0, 1, 25, 159
+"/Users/jakk/current/woogle/tsconfig.json", "JSON with Comments", 0, 0, 0, 0, 0, 27, 0, 0, 0, 1, 28
+"Total", "-", 275, 56, 16, 22, 5724, 27, 5, 23, 6, 88, 6242
